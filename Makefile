@@ -4,11 +4,11 @@ LIBS := -lpng
 
 CFLAGS := -g -Wall -Wpedantic
 
-all: build/main
+all: build/generate_logistic_map
 
-build/main: src/main.c
+build/generate_logistic_map: src/generate_logistic_map.c
 	mkdir -p build/
-	${CC} ${CFLAGS} src/main.c -o $@ ${LIBS}
+	${CC} ${CFLAGS} src/generate_logistic_map.c -o $@ ${LIBS}
 
 clean:
 	rm -rf build/
