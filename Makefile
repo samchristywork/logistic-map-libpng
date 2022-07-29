@@ -1,7 +1,5 @@
 CC := gcc
-
 LIBS := -lpng
-
 CFLAGS := -g -Wall -Wpedantic
 
 all: build/generate_logistic_map
