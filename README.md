@@ -20,6 +20,9 @@ should show that this behavior is less chaotic than it initially appears.
 Simply run the command `make build`. This will place the executable in the
 `build/` directory.
 
+`make run` has been added as a convenience to generate a sample file like the
+one shown above at `build/output.png`.
+
 ## Usage
 
 ```
