@@ -1,7 +1,7 @@
-![Banner](https://s-christy.com/status-banner-service/logistic-map-libpng/banner-slim.svg)
+![Banner](https://s-christy.com/sbs/status-banner.svg?icon=notification/account_tree&hue=250&title=Logistic%20Map&description=Population%20studies%20is%20great%20if%20you%20don%27t%20take%20it%20too%20seriously)
 
 <p align="center">
-  <img src="./sample/sample.png" width="500" />
+  <img src="./sample/sample.png" />
 </p>
 
 ## Overview
